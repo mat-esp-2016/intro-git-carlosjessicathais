@@ -1,47 +1,10 @@
-Virar as cartas 1 e 2
-Se a carta 1 for >2, troque-as de lugar
-Desvire-as
 
-Virar as cartas 2 e 3
-Se a carta 2 for >3, troque-as de lugar
-Desvire-as
+                                   VERSÃO SIMPLIFICADA
 
-Virar as cartas 3 e 4
-Se a carta 3 for >4, troque-as de lugar
-Desvire-as
-
-Virar as cartas 4 e 5
-Se a carta 4 for >5, troque-as de lugar
-Desvire-as
-
-
-Virar as cartas 1 e 2
-Se a carta 1 for >2, troque-as de lugar
-Desvire-as
-
-Virar as cartas 2 e 3
-Se a carta 2 for >3, troque-as de lugar
-Desvire-as
-
-Virar as cartas 3 e 4
-Se a carta 3 for >4, troque-as de lugar
-Desvire-as
-
-
-Virar as cartas 1 e 2
-Se a carta 1 for >2, troque-as de lugar
-Desvire-as
-
-Virar as cartas 2 e 3
-Se a carta 2 for >3, troque-as de lugar
-Desvire-as
-
-
-Virar as cartas 1 e 2
-Se a carta 1 for >2, troque-as de lugar
-Desvire-as
-
-
-
-
-
+	N cartas, enumeradas de 1 a N
+	Para a carta_final indo de N-1 até 2, de -1 em -1
+REPETIÇÃO -> Para a carta i indo de 1 até i+1
+		Desvirar carta i e carta i+1
+		Se o valor de i)valor da carta i+1
+			Troque-as de lugar
+		Vire a carta i e carta i+1
