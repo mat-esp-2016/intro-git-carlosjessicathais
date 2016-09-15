@@ -1,0 +1,3 @@
+ Tendo 5 cartas viradas para baixo desvire duas cartas consecutivas, indo da esquerda para a direita seguindo a ordem: 1-2, 2-3, 3-4, 4-5.
+Se a carta da esquerda for maior que a da direita, troque-as de lugar e vire-as novamente. Se a carta da esquerda for menor que a da direita, vire-as novamente.
+Repita o processo até que não faça nenhuma troca em todas as viradas.
