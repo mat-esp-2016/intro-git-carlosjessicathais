@@ -1,3 +1,47 @@
- Tendo 5 cartas viradas para baixo desvire duas cartas consecutivas, indo da esquerda para a direita seguindo a ordem: 1-2, 2-3, 3-4, 4-5.
-Se a carta da esquerda for maior que a da direita, troque-as de lugar e vire-as novamente. Se a carta da esquerda for menor que a da direita, vire-as novamente.
-Repita o processo até que não faça nenhuma troca em todas as viradas.
+Virar as cartas 1 e 2
+Se a carta 1 for >2, troque-as de lugar
+Desvire-as
+
+Virar as cartas 2 e 3
+Se a carta 2 for >3, troque-as de lugar
+Desvire-as
+
+Virar as cartas 3 e 4
+Se a carta 3 for >4, troque-as de lugar
+Desvire-as
+
+Virar as cartas 4 e 5
+Se a carta 4 for >5, troque-as de lugar
+Desvire-as
+
+
+Virar as cartas 1 e 2
+Se a carta 1 for >2, troque-as de lugar
+Desvire-as
+
+Virar as cartas 2 e 3
+Se a carta 2 for >3, troque-as de lugar
+Desvire-as
+
+Virar as cartas 3 e 4
+Se a carta 3 for >4, troque-as de lugar
+Desvire-as
+
+
+Virar as cartas 1 e 2
+Se a carta 1 for >2, troque-as de lugar
+Desvire-as
+
+Virar as cartas 2 e 3
+Se a carta 2 for >3, troque-as de lugar
+Desvire-as
+
+
+Virar as cartas 1 e 2
+Se a carta 1 for >2, troque-as de lugar
+Desvire-as
+
+
+
+
+
